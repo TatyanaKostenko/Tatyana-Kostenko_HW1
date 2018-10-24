@@ -1,0 +1,6 @@
+<!DOCTYPE HTML>
+<html>
+  <body>
+    <h1> <a href="1.html">Зонтик - хорошая штука при дожде!</a></h1>
+  </body>
+</html>
